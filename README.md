@@ -2,7 +2,7 @@
 
 **Business Strategy Skills Library for Claude Code**
 
-> 27 AI-powered skills that transform business ideas into fundable ventures
+> 27 professional and comprehensive AI-powered skills that transform business ideas into fundable ventures
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code Plugin](https://img.shields.io/badge/Claude%20Code-Plugin-blue.svg)](https://claude.ai)
