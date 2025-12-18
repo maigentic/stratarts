@@ -1,4 +1,4 @@
-# StratArts
+# StrategicArts
 
 **Business Strategy Skills Library for Claude Code**
 
@@ -9,9 +9,9 @@
 
 ---
 
-## What is StratArts?
+## What is StrategicArts?
 
-StratArts is a comprehensive Claude Code skills library that guides entrepreneurs through the complete business-building journey—from initial idea validation to investor pitch deck—using proven methodologies and professional HTML report outputs.
+StrategicArts is a comprehensive Claude Code skills library that guides entrepreneurs through the complete business-building journey—from initial idea validation to investor pitch deck—using proven methodologies and professional HTML report outputs.
 
 **Transform vague ideas into structured business plans in days, not months.**
 
@@ -23,6 +23,7 @@ StratArts is a comprehensive Claude Code skills library that guides entrepreneur
 - **Framework-Driven** — Built on Business Model Canvas, JTBD, OKRs, RICE, AARRR, and more
 - **Beautiful HTML Reports** — Dark-themed, Chart.js-powered visualizations
 - **Intelligent Context Chaining** — Skills detect and reuse previous outputs
+- **Interative Skill Flow** — Skills allow for detail overviews 
 - **Quantitative Scoring** — Go/no-go recommendations backed by data
 
 ---
