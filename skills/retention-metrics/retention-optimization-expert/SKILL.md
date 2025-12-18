@@ -810,7 +810,7 @@ After generating the HTML report, verify all elements render correctly:
 - [ ] CS model matches ARPU (low ARPU = tech-touch, high = dedicated)
 
 ### Template Location
-- Skeleton template: `.claude/html-templates/retention-optimization-expert.html`
+- Skeleton template: `html-templates/retention-optimization-expert.html`
 - Test output: `skills/retention-metrics/retention-optimization-expert/test-template-output.html`
 
 ---

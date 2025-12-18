@@ -21,12 +21,12 @@ Guide the user through a comprehensive GTM planning process using proven framewo
 
 1. **Read the verification checklist:**
    ```
-   Read file: .claude/html-templates/VERIFICATION-CHECKLIST.md
+   Read file: html-templates/VERIFICATION-CHECKLIST.md
    ```
 
 2. **Read the skeleton template:**
    ```
-   Read file: .claude/html-templates/go-to-market-planner.html
+   Read file: html-templates/go-to-market-planner.html
    ```
 
 3. **Confirm understanding of:**

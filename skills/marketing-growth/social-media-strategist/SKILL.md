@@ -12,7 +12,7 @@ category: marketing-growth
 Before generating the HTML output, Claude MUST verify:
 
 ### Template Verification
-- [ ] Read `.claude/html-templates/social-media-strategist.html` skeleton
+- [ ] Read `html-templates/social-media-strategist.html` skeleton
 - [ ] Verify all placeholder markers: `{{PRODUCT_NAME}}`, `{{TOTAL_POSTS}}`, `{{VERDICT}}`, etc.
 - [ ] Confirm Chart.js v4.4.0 CDN is present
 

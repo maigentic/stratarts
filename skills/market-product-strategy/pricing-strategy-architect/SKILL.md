@@ -21,12 +21,12 @@ Guide the user through a comprehensive pricing strategy development process usin
 
 1. **Read the verification checklist:**
    ```
-   Read file: .claude/html-templates/VERIFICATION-CHECKLIST.md
+   Read file: html-templates/VERIFICATION-CHECKLIST.md
    ```
 
 2. **Read the skeleton template:**
    ```
-   Read file: .claude/html-templates/pricing-strategy-architect.html
+   Read file: html-templates/pricing-strategy-architect.html
    ```
 
 3. **Confirm understanding of:**

@@ -823,7 +823,7 @@ After generating the HTML report, verify all elements render correctly:
 - [ ] A/B tests have measurable success metrics
 
 ### Template Location
-- Skeleton template: `.claude/html-templates/onboarding-flow-optimizer.html`
+- Skeleton template: `html-templates/onboarding-flow-optimizer.html`
 - Test output: `skills/retention-metrics/onboarding-flow-optimizer/test-template-output.html`
 
 ---

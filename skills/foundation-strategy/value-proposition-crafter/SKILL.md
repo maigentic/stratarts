@@ -1218,17 +1218,17 @@ If user says yes, use the Write tool to save the complete report to the specifie
 
 1. **Verification Checklist** (MUST READ FIRST):
    ```
-   .claude/html-templates/VERIFICATION-CHECKLIST.md
+   html-templates/VERIFICATION-CHECKLIST.md
    ```
 
 2. **Base Template** (shared structure):
    ```
-   .claude/html-templates/base-template.html
+   html-templates/base-template.html
    ```
 
 3. **Skill-Specific Template** (content sections & charts):
    ```
-   .claude/html-templates/value-proposition-crafter.html
+   html-templates/value-proposition-crafter.html
    ```
 
 ### How to Use Templates

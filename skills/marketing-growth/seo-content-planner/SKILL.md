@@ -12,7 +12,7 @@ category: marketing-growth
 Before generating any output, verify these template requirements:
 
 ### Template Location
-- **Skeleton Template**: `.claude/html-templates/seo-content-planner.html`
+- **Skeleton Template**: `html-templates/seo-content-planner.html`
 - **Test Output Reference**: `skills/marketing-growth/seo-content-planner/test-template-output.html`
 
 ### Required Placeholders to Replace

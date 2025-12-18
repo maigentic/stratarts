@@ -20,8 +20,8 @@ Guide the user through a comprehensive content marketing strategy development pr
 **Before generating any HTML output**, you MUST complete these checks:
 
 ### 0.1 Template Verification
-- [ ] Read `.claude/html-templates/content-marketing-strategist.html` skeleton template
-- [ ] Read `.claude/html-templates/base-template.html` for canonical patterns
+- [ ] Read `html-templates/content-marketing-strategist.html` skeleton template
+- [ ] Read `html-templates/base-template.html` for canonical patterns
 - [ ] Read `.claude/VERIFICATION-CHECKLIST.md` for quality gates
 
 ### 0.2 Canonical Pattern Confirmation

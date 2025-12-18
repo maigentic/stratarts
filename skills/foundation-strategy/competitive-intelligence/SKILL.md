@@ -1279,17 +1279,17 @@ END_STRATARTS_CONTEXT -->
 
 1. **Verification Checklist** (MUST READ FIRST):
    ```
-   .claude/html-templates/VERIFICATION-CHECKLIST.md
+   html-templates/VERIFICATION-CHECKLIST.md
    ```
 
 2. **Base Template** (shared structure):
    ```
-   .claude/html-templates/base-template.html
+   html-templates/base-template.html
    ```
 
 3. **Skill-Specific Template** (content sections & charts):
    ```
-   .claude/html-templates/competitive-intelligence.html
+   html-templates/competitive-intelligence.html
    ```
 
 ### How to Use Templates

@@ -12,7 +12,7 @@ category: marketing-growth
 Before generating any output, verify these template requirements:
 
 ### Template Location
-- **Skeleton Template**: `.claude/html-templates/email-marketing-architect.html`
+- **Skeleton Template**: `html-templates/email-marketing-architect.html`
 - **Test Output Reference**: `skills/marketing-growth/email-marketing-architect/test-template-output.html`
 
 ### Required Placeholders to Replace

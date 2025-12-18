@@ -1010,17 +1010,17 @@ To resume later, run any skill from the recommended sequence.
 
 1. **Verification Checklist** (MUST READ FIRST):
    ```
-   .claude/html-templates/VERIFICATION-CHECKLIST.md
+   html-templates/VERIFICATION-CHECKLIST.md
    ```
 
 2. **Base Template** (shared editorial structure):
    ```
-   .claude/html-templates/base-template.html
+   html-templates/base-template.html
    ```
 
 3. **Skill-Specific Template** (content sections & charts):
    ```
-   .claude/html-templates/market-opportunity-analyzer.html
+   html-templates/market-opportunity-analyzer.html
    ```
 
 ### How to Use Templates

@@ -19,9 +19,9 @@ Guide the user through comprehensive brand identity development using proven fra
 
 **Before generating the HTML output, Claude MUST verify:**
 
-1. **Template Reference**: Read `.claude/html-templates/brand-identity-designer.html` for skill-specific CSS and content structure
-2. **Base Template**: Read `.claude/html-templates/base-template.html` for canonical header, score banner, and footer patterns
-3. **Verification Checklist**: Read `.claude/html-templates/VERIFICATION-CHECKLIST.md` for CSS verification requirements
+1. **Template Reference**: Read `html-templates/brand-identity-designer.html` for skill-specific CSS and content structure
+2. **Base Template**: Read `html-templates/base-template.html` for canonical header, score banner, and footer patterns
+3. **Verification Checklist**: Read `html-templates/VERIFICATION-CHECKLIST.md` for CSS verification requirements
 
 **Required Checks:**
 - [ ] Header uses canonical pattern: `header { background: #0a0a0a; padding: 0; ... }`
@@ -1067,7 +1067,7 @@ Now begin with Step 1!
 
 ## HTML Output Verification
 
-**After generating the HTML report, verify against `.claude/html-templates/VERIFICATION-CHECKLIST.md`:**
+**After generating the HTML report, verify against `html-templates/VERIFICATION-CHECKLIST.md`:**
 
 ### Structure Verification
 - [ ] Uses canonical header pattern from base-template.html

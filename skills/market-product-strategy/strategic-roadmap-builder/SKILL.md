@@ -21,12 +21,12 @@ Transform business strategy into an executable 18-month roadmap using OKRs (Obje
 
 1. **Read the verification checklist:**
    ```
-   Read file: .claude/html-templates/VERIFICATION-CHECKLIST.md
+   Read file: html-templates/VERIFICATION-CHECKLIST.md
    ```
 
 2. **Read the skeleton template:**
    ```
-   Read file: .claude/html-templates/strategic-roadmap-builder.html
+   Read file: html-templates/strategic-roadmap-builder.html
    ```
 
 3. **Confirm understanding of:**

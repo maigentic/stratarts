@@ -25,7 +25,7 @@ description: Create comprehensive operational playbook documenting organizationa
 - [ ] Onboarding timeline expectations set
 
 ### Output Format Verification
-- [ ] HTML template located at `.claude/html-templates/operational-playbook-creator.html`
+- [ ] HTML template located at `html-templates/operational-playbook-creator.html`
 - [ ] Score banner metrics: Headcount, Departments, Core Processes, Meetings, Tools, Y1 Target
 - [ ] All 10 sections have content ready:
   1. Company Foundation (mission, vision, 3-5 values)
@@ -811,7 +811,7 @@ Once finalized, I will:
 **MANDATORY: Verify these elements before delivering HTML output.**
 
 ### Template Compliance
-- [ ] Used skeleton template from `.claude/html-templates/operational-playbook-creator.html`
+- [ ] Used skeleton template from `html-templates/operational-playbook-creator.html`
 - [ ] All `{{PLACEHOLDER}}` markers replaced with actual data
 - [ ] No template syntax visible in final output
 - [ ] Company name appears in header, title, and throughout document

@@ -21,12 +21,12 @@ Guide the user through a comprehensive feature prioritization process using prov
 
 1. **Read the verification checklist:**
    ```
-   Read file: .claude/html-templates/VERIFICATION-CHECKLIST.md
+   Read file: html-templates/VERIFICATION-CHECKLIST.md
    ```
 
 2. **Read the skeleton template:**
    ```
-   Read file: .claude/html-templates/feature-prioritization-framework.html
+   Read file: html-templates/feature-prioritization-framework.html
    ```
 
 3. **Confirm understanding of:**

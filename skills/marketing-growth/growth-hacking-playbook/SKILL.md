@@ -12,7 +12,7 @@ category: marketing-growth
 Before generating the HTML output, Claude MUST verify:
 
 ### Template Verification
-- [ ] Read `.claude/html-templates/growth-hacking-playbook.html` skeleton
+- [ ] Read `html-templates/growth-hacking-playbook.html` skeleton
 - [ ] Verify all placeholder markers: `{{PRODUCT_NAME}}`, `{{KFACTOR_VALUE}}`, `{{VERDICT}}`, etc.
 - [ ] Confirm Chart.js v4.4.0 CDN is present
 
