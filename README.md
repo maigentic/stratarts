@@ -1,4 +1,4 @@
-# StrategicArts
+# StrategicArts (StratArts)
 
 **Business Strategy Skills Library for Claude Code**
 
