@@ -162,7 +162,7 @@ Reports use a dark emerald theme (#10b981 accent on #0a0a0a background).
 
 ## Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributors! If you're interested in improving StratArts, please reach out at stratarts@maigent.com.
 
 ### Development
 ```bash
