@@ -114,6 +114,29 @@ git clone https://github.com/maigentic/stratarts.git
 # Navigate to the Installed tab — you should see stratarts listed
 ```
 
+### Troubleshooting: SSH Permission Denied
+
+If you see this error during plugin installation:
+
+```
+Error: Failed to install: Failed to clone repository...
+git@github.com: Permission denied (publickey).
+```
+
+Claude Code's plugin installer uses SSH by default when cloning plugin sources. If you don't have SSH keys configured for GitHub, run this in your terminal to redirect SSH requests through HTTPS:
+
+```bash
+git config --global url."https://github.com/".insteadOf "git@github.com:"
+```
+
+Then retry the install. To undo this later:
+
+```bash
+git config --global --unset url."https://github.com/".insteadOf
+```
+
+This is a [known issue](https://github.com/anthropics/claude-code/issues/25444) in Claude Code's plugin installer.
+
 ---
 
 ## Usage
