@@ -141,17 +141,17 @@ This is a [known issue](https://github.com/anthropics/claude-code/issues/25444) 
 
 ## Usage
 
-Invoke any skill using the `/skill` command:
+Invoke any skill directly using the plugin namespace:
 
 ```bash
 # Validate a business idea
-/skill stratarts:business-idea-validator
+/stratarts:business-idea-validator
 
 # Create a pitch deck
-/skill stratarts:investor-pitch-deck-builder
+/stratarts:investor-pitch-deck-builder
 
 # Build a financial model
-/skill stratarts:financial-model-architect
+/stratarts:financial-model-architect
 ```
 
 Or simply ask Claude to use a skill:
