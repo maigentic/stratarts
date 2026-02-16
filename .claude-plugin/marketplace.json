@@ -10,10 +10,7 @@
   "plugins": [
     {
       "name": "stratarts",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/maigentic/stratarts.git"
-      },
+      "source": "./stratarts",
       "description": "27 professional business strategy skills: idea validation, market analysis, business modeling, marketing, metrics, and fundraising frameworks",
       "version": "1.0.0",
       "author": {
