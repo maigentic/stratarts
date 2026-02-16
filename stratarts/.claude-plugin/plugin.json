@@ -2,20 +2,10 @@
   "name": "stratarts",
   "version": "1.0.0",
   "description": "Comprehensive business strategy skills library - 27 proven frameworks from idea validation to fundraising. Transform any business idea into a fundable venture with professional HTML reports.",
-  "author": "Maigent AI",
+  "author": {
+    "name": "Maigent AI"
+  },
   "license": "MIT",
   "repository": "https://github.com/maigentic/stratarts",
-  "homepage": "https://stratarts.ai",
-  "tags": [
-    "business",
-    "strategy",
-    "entrepreneurship",
-    "startup",
-    "fundraising",
-    "marketing",
-    "product-strategy",
-    "business-planning",
-    "pitch-deck",
-    "financial-modeling"
-  ]
+  "homepage": "https://stratarts.ai"
 }
