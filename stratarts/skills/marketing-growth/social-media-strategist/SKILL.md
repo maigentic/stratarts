@@ -1,8 +1,6 @@
 ---
 name: social-media-strategist
 description: Comprehensive social media strategy including platform selection matrix, platform-specific content strategies, content pillars, 90-day content calendar, engagement tactics, influencer partnerships, and metrics dashboard using Platform Selection Matrix, Content Pillars, and Engagement Ladder frameworks.
-version: 1.0.0
-category: marketing-growth
 ---
 
 # Social Media Strategist

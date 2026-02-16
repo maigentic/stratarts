@@ -1,17 +1,6 @@
 ---
 name: product-positioning-expert
 description: April Dunford's positioning framework for clear market differentiation. Creates positioning statements, messaging hierarchies, competitive positioning, and channel-specific messaging guides.
-author: Maigent AI
-version: 1.0.0
-category: foundation-strategy
-tags:
-  - positioning
-  - messaging
-  - differentiation
-  - competitive-positioning
-  - april-dunford
-  - brand-messaging
-estimatedTime: 75-120 minutes
 ---
 
 # Product Positioning Expert

@@ -1,8 +1,6 @@
 ---
 name: onboarding-flow-optimizer
 description: Optimize user onboarding to reduce time-to-value and increase activation rates. Design clear paths to the "aha moment" through checklists, product tours, educational content, and personalized flows. Generate actionable HTML reports with funnel analysis, email sequences, and A/B testing plans.
-version: 1.0.0
-category: retention-metrics
 ---
 
 # onboarding-flow-optimizer

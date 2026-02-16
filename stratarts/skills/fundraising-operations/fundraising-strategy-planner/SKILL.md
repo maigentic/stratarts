@@ -1,8 +1,6 @@
 ---
 name: fundraising-strategy-planner
 description: Create comprehensive fundraising playbook covering timeline, investor targeting, outreach cadence, meeting progression, due diligence preparation, term sheet negotiation, and closing process. Run disciplined fundraising that maximizes leverage and closes on favorable terms.
-version: 1.0.0
-category: fundraising-operations
 ---
 
 # fundraising-strategy-planner

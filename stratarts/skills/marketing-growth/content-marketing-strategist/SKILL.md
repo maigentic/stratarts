@@ -1,8 +1,6 @@
 ---
 name: content-marketing-strategist
 description: Comprehensive content marketing strategy including content pillars, 90-day editorial calendar, distribution strategy, SEO optimization, and repurposing playbook using Content Pillars, Hub-and-Spoke, and 10x Content frameworks.
-version: 1.0.0
-category: marketing-growth
 ---
 
 # Content Marketing Strategist

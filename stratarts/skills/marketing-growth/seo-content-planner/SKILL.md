@@ -1,8 +1,6 @@
 ---
 name: seo-content-planner
 description: Comprehensive SEO content strategy including keyword research, content cluster architecture, technical SEO audit, on-page optimization guidelines, 90-day content calendar, link building strategy, and success metrics for sustainable organic growth
-version: 1.0.0
-category: marketing-growth
 ---
 
 # SEO Content Planner

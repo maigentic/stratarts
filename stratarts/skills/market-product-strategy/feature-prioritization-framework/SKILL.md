@@ -1,8 +1,6 @@
 ---
 name: feature-prioritization-framework
 description: RICE scoring framework for ruthless feature prioritization. Evaluates features against strategic objectives, customer value, and resource constraints. Produces prioritized product roadmap with clear rationale for what to build first, defer, or kill.
-version: 1.0.0
-category: market-product-strategy
 ---
 
 # Feature Prioritization Framework

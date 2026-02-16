@@ -1,8 +1,6 @@
 ---
 name: investor-brief-writer
 description: Create compelling investor one-pagers and email briefs that capture attention and get meetings. Distill your pitch into scannable, high-impact documents with traction-focused cold emails and distribution strategy.
-version: 1.0.0
-category: fundraising-operations
 ---
 
 # investor-brief-writer

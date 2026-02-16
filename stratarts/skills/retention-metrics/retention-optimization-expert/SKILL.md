@@ -1,8 +1,6 @@
 ---
 name: retention-optimization-expert
 description: Reduce churn and improve retention through cohort analysis, at-risk user identification, win-back campaigns, and customer success strategies. Generate comprehensive HTML reports with retention curves, health scores, churn analysis, and 90-day implementation roadmaps.
-version: 1.0.0
-category: retention-metrics
 ---
 
 # retention-optimization-expert

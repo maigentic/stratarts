@@ -1,8 +1,6 @@
 ---
 name: brand-identity-designer
 description: Comprehensive brand identity system including brand strategy, visual identity (colors, typography, logo direction), messaging architecture (taglines, boilerplates), and tone of voice guidelines with before/after examples and implementation roadmap.
-version: 1.0.0
-category: marketing-growth
 ---
 
 # Brand Identity Designer

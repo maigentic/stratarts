@@ -1,8 +1,6 @@
 ---
 name: community-building-strategist
 description: Comprehensive community building strategy including platform selection, channel structure, member journey mapping, engagement ladder tactics, community programming rituals, moderation guidelines, launch plan, growth strategy, and success metrics for building thriving online communities
-version: 1.0.0
-category: marketing-growth
 ---
 
 # Community Building Strategist

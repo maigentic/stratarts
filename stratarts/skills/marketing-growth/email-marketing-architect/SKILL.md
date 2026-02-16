@@ -1,8 +1,6 @@
 ---
 name: email-marketing-architect
 description: Comprehensive email marketing strategy including drip campaigns, segmentation, automation workflows, copywriting guidelines, deliverability best practices, and 90-day implementation roadmap with full-funnel lifecycle coverage
-version: 1.0.0
-category: marketing-growth
 ---
 
 # Email Marketing Architect

@@ -1,17 +1,6 @@
 ---
 name: customer-persona-builder
 description: Jobs-to-be-Done (JTBD) customer persona development with priority matrix, buying journey mapping, and decision criteria analysis. Creates actionable buyer personas for product and marketing decisions.
-author: Maigent AI
-version: 1.0.0
-category: foundation-strategy
-tags:
-  - customer-personas
-  - jobs-to-be-done
-  - buyer-personas
-  - user-research
-  - customer-segmentation
-  - gtm-strategy
-estimatedTime: 60-120 minutes
 ---
 
 # Customer Persona Builder

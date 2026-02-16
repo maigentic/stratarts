@@ -1,16 +1,6 @@
 ---
 name: business-model-designer
 description: Complete Business Model Canvas design with all 9 blocks analyzed. Transforms validated ideas into viable business models with revenue clarity and operational strategy.
-author: Maigent AI
-version: 1.0.0
-category: foundation-strategy
-tags:
-  - business-model
-  - revenue-model
-  - business-model-canvas
-  - monetization
-  - unit-economics
-estimatedTime: 90-120 minutes
 ---
 
 # Business Model Designer

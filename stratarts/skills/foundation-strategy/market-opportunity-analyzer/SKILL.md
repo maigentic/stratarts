@@ -1,21 +1,6 @@
 ---
 name: market-opportunity-analyzer
 description: TAM/SAM/SOM analysis and competitive landscape mapping. Identifies beachhead markets and expansion opportunities with data-driven market sizing.
-author: StratArts
-version: 1.0.0
-category: foundation-strategy
-tags:
-  - market-analysis
-  - TAM
-  - SAM
-  - SOM
-  - competition
-  - market-sizing
-  - beachhead
-estimatedTime: 75-120 minutes
-prerequisites:
-  - business-idea-validator (recommended)
-nextSkill: business-model-designer
 ---
 
 # Market Opportunity Analyzer

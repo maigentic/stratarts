@@ -1,17 +1,6 @@
 ---
 name: competitive-intelligence
 description: Porter's Five Forces, SWOT analysis, and competitive positioning matrix for strategic market analysis. Identifies threats, opportunities, and recommends positioning strategy.
-author: Maigent AI
-version: 1.0.0
-category: foundation-strategy
-tags:
-  - competitive-analysis
-  - porter-five-forces
-  - swot
-  - market-positioning
-  - competitor-research
-  - strategic-planning
-estimatedTime: 90-150 minutes
 ---
 
 # Competitive Intelligence

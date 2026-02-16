@@ -1,8 +1,6 @@
 ---
 name: investor-pitch-deck-builder
 description: Create a compelling 10-15 slide investor pitch deck that tells your startup story, demonstrates market opportunity, proves traction, and makes a clear ask. Build a deck that gets meetings, progresses conversations, and closes rounds.
-version: 1.0.0
-category: fundraising-operations
 ---
 
 # investor-pitch-deck-builder

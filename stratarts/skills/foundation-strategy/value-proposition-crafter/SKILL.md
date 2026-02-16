@@ -1,17 +1,6 @@
 ---
 name: value-proposition-crafter
 description: Jobs-to-be-Done framework for compelling value propositions. Creates customer-centric messaging with positioning statements, benefit hierarchies, and multi-channel messaging guides.
-author: Maigent AI
-version: 1.0.0
-category: foundation-strategy
-tags:
-  - value-proposition
-  - messaging
-  - positioning
-  - jobs-to-be-done
-  - JTBD
-  - copywriting
-estimatedTime: 60-90 minutes
 ---
 
 # Value Proposition Crafter

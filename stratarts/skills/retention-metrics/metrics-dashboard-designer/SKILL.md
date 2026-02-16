@@ -1,8 +1,6 @@
 ---
 name: metrics-dashboard-designer
 description: Comprehensive metrics dashboard strategy including North Star Metric definition, AARRR Pirate Metrics framework, product engagement tracking, 5 role-specific dashboards, alert configuration, data infrastructure planning, and 90-day implementation roadmap for data-driven decision making
-version: 1.0.0
-category: retention-metrics
 ---
 
 # metrics-dashboard-designer

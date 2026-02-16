@@ -1,8 +1,6 @@
 ---
 name: pricing-strategy-architect
 description: Value-based pricing framework with Van Westendorp PSM analysis. Designs tier structure, packaging strategy, and unit economics. Produces comprehensive pricing strategy with Good-Better-Best model, competitive positioning, and implementation roadmap.
-version: 1.0.0
-category: market-product-strategy
 ---
 
 # Pricing Strategy Architect

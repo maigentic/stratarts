@@ -1,8 +1,6 @@
 ---
 name: strategic-roadmap-builder
 description: OKR-driven 18-month strategic roadmap with milestone-based execution plan. Transforms strategy into actionable phases with clear success metrics and resource allocation.
-version: 1.0.0
-category: market-product-strategy
 ---
 
 # Strategic Roadmap Builder

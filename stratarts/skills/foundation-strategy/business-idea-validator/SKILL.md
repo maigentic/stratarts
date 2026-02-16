@@ -1,15 +1,6 @@
 ---
 name: business-idea-validator
 description: Systematically validate business ideas with proven scoring frameworks. Produces comprehensive 2,000-3,000 word validation report with actionable recommendations and go/no-go decision.
-author: Maigent AI
-version: 1.0.0
-category: foundation-strategy
-tags:
-  - validation
-  - idea-evaluation
-  - market-analysis
-  - risk-assessment
-estimatedTime: 60-90 minutes
 ---
 
 # Business Idea Validator
