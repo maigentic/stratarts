@@ -1,6 +1,6 @@
 ---
 description: Create comprehensive fundraising playbook covering timeline, investor targeting, outreach cadence, meeting progression, due diligence preparation, term sheet negotiation, and closing process. Run disciplined fundraising that maximizes leverage and closes on favorable terms.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # fundraising-strategy-planner

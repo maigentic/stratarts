@@ -1,6 +1,6 @@
 ---
 description: Complete Business Model Canvas design with all 9 blocks analyzed. Transforms validated ideas into viable business models with revenue clarity and operational strategy.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # Business Model Designer

@@ -1,6 +1,6 @@
 ---
 description: Comprehensive customer feedback framework including NPS, CSAT, CES surveys, exit interviews, user research, feature request management with RICE prioritization, feedback analysis, close-the-loop processes, and 90-day implementation roadmap for Voice of Customer programs
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # customer-feedback-framework

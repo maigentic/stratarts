@@ -1,6 +1,6 @@
 ---
 description: Systematically validate business ideas with proven scoring frameworks. Produces comprehensive 2,000-3,000 word validation report with actionable recommendations and go/no-go decision.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # Business Idea Validator

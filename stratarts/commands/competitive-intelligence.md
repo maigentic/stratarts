@@ -1,6 +1,6 @@
 ---
 description: Porter's Five Forces, SWOT analysis, and competitive positioning matrix for strategic market analysis. Identifies threats, opportunities, and recommends positioning strategy.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # Competitive Intelligence

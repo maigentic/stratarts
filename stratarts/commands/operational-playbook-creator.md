@@ -1,6 +1,6 @@
 ---
 description: Create comprehensive operational playbook documenting organizational structure, processes, meeting rhythms, communication protocols, OKRs, tools, onboarding, and culture. Build the operating system that scales your team from 10 to 1,000+ employees.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # operational-playbook-creator

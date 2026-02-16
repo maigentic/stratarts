@@ -1,6 +1,6 @@
 ---
 description: Reduce churn and improve retention through cohort analysis, at-risk user identification, win-back campaigns, and customer success strategies. Generate comprehensive HTML reports with retention curves, health scores, churn analysis, and 90-day implementation roadmaps.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # retention-optimization-expert

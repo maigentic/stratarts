@@ -1,6 +1,6 @@
 ---
 description: Comprehensive brand identity system including brand strategy, visual identity (colors, typography, logo direction), messaging architecture (taglines, boilerplates), and tone of voice guidelines with before/after examples and implementation roadmap.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # Brand Identity Designer

@@ -1,6 +1,6 @@
 ---
 description: April Dunford's positioning framework for clear market differentiation. Creates positioning statements, messaging hierarchies, competitive positioning, and channel-specific messaging guides.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # Product Positioning Expert

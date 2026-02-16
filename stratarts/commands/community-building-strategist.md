@@ -1,6 +1,6 @@
 ---
 description: Comprehensive community building strategy including platform selection, channel structure, member journey mapping, engagement ladder tactics, community programming rituals, moderation guidelines, launch plan, growth strategy, and success metrics for building thriving online communities
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # Community Building Strategist

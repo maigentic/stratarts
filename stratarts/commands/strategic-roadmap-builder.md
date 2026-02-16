@@ -1,6 +1,6 @@
 ---
 description: OKR-driven 18-month strategic roadmap with milestone-based execution plan. Transforms strategy into actionable phases with clear success metrics and resource allocation.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # Strategic Roadmap Builder

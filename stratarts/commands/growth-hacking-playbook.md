@@ -1,6 +1,6 @@
 ---
 description: Comprehensive growth hacking strategy including growth loops, AARRR pirate metrics, channel prioritization (Bullseye), viral mechanics (K-factor), ICE experiment scoring, and 90-day experimentation roadmap using Growth Loops, Pirate Metrics, and Traction Bullseye frameworks.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # Growth Hacking Playbook

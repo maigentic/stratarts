@@ -1,6 +1,6 @@
 ---
 description: Jobs-to-be-Done (JTBD) customer persona development with priority matrix, buying journey mapping, and decision criteria analysis. Creates actionable buyer personas for product and marketing decisions.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # Customer Persona Builder

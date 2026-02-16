@@ -1,6 +1,6 @@
 ---
 description: Comprehensive SEO content strategy including keyword research, content cluster architecture, technical SEO audit, on-page optimization guidelines, 90-day content calendar, link building strategy, and success metrics for sustainable organic growth
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # SEO Content Planner

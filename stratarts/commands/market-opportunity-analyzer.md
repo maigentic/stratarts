@@ -1,6 +1,6 @@
 ---
 description: TAM/SAM/SOM analysis and competitive landscape mapping. Identifies beachhead markets and expansion opportunities with data-driven market sizing.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # Market Opportunity Analyzer

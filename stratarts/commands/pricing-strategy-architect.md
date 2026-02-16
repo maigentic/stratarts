@@ -1,6 +1,6 @@
 ---
 description: Value-based pricing framework with Van Westendorp PSM analysis. Designs tier structure, packaging strategy, and unit economics. Produces comprehensive pricing strategy with Good-Better-Best model, competitive positioning, and implementation roadmap.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # Pricing Strategy Architect

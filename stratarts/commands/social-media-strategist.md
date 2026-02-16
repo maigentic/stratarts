@@ -1,6 +1,6 @@
 ---
 description: Comprehensive social media strategy including platform selection matrix, platform-specific content strategies, content pillars, 90-day content calendar, engagement tactics, influencer partnerships, and metrics dashboard using Platform Selection Matrix, Content Pillars, and Engagement Ladder frameworks.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # Social Media Strategist

@@ -1,6 +1,6 @@
 ---
 description: Jobs-to-be-Done framework for compelling value propositions. Creates customer-centric messaging with positioning statements, benefit hierarchies, and multi-channel messaging guides.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # Value Proposition Crafter
