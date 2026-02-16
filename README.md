@@ -23,7 +23,7 @@ StrategicArts is a comprehensive Claude Code skills library that guides entrepre
 - **Framework-Driven** — Built on Business Model Canvas, JTBD, OKRs, RICE, AARRR, and more
 - **Beautiful HTML Reports** — Dark-themed, Chart.js-powered visualizations
 - **Intelligent Context Chaining** — Skills detect and reuse previous outputs
-- **Interative Skill Flow** — Skills allow for detail overviews 
+- **Interactive Skill Flow** — Skills allow for detail overviews
 - **Quantitative Scoring** — Go/no-go recommendations backed by data
 
 ---
@@ -81,33 +81,37 @@ StrategicArts is a comprehensive Claude Code skills library that guides entrepre
 
 ## Installation
 
-### From GitHub Marketplace (Recommended)
+### From GitHub (Recommended)
 
 ```bash
-# Step 1: Add the StratArts marketplace
-/plugin marketplace add maigent/stratarts
+# Step 1: Add the marketplace
+/plugin marketplace add https://github.com/maigentic/stratarts
 
 # Step 2: Install the plugin
 /plugin install stratarts@maigent
+
+# Step 3: Restart Claude Code to load the plugin
 ```
 
-### Manual Installation (Local Development)
+### Local Installation (Development)
 
 ```bash
 git clone https://github.com/maigentic/stratarts.git
-cd stratarts
 
-# Install from local directory
-/plugin install ./
+# Add the local marketplace
+/plugin marketplace add ./stratarts
+
+# Install the plugin
+/plugin install stratarts@maigent
 ```
 
 ### Verify Installation
 
 ```bash
-# List installed plugins
+# Open the plugin manager
 /plugin
 
-# You should see stratarts with 27 skills listed
+# Navigate to the Installed tab — you should see stratarts listed
 ```
 
 ---
@@ -168,8 +172,8 @@ We welcome contributors! If you're interested in improving StratArts, please rea
 ```bash
 git clone https://github.com/maigentic/stratarts.git
 cd stratarts
-# Skills are in /skills directory
-# HTML templates are in /.claude/html-templates
+# Skills are in /stratarts/skills directory
+# HTML templates are in /html-templates
 ```
 
 ---
