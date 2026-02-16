@@ -1,36 +1,13 @@
 {
   "name": "maigent",
   "owner": {
-    "name": "Maigent",
-    "email": "contact@maigent.com"
-  },
-  "metadata": {
-    "description": "Maigent plugin marketplace - business strategy and productivity tools for Claude Code"
+    "name": "Maigent"
   },
   "plugins": [
     {
       "name": "stratarts",
       "source": "./stratarts",
-      "description": "27 professional business strategy skills: idea validation, market analysis, business modeling, marketing, metrics, and fundraising frameworks",
-      "version": "1.0.0",
-      "author": {
-        "name": "Maigent",
-        "email": "stratarts@maigent.com"
-      },
-      "homepage": "https://stratarts.ai",
-      "repository": "https://github.com/maigentic/stratarts",
-      "license": "MIT",
-      "category": "business-strategy",
-      "tags": [
-        "business",
-        "strategy",
-        "entrepreneurship",
-        "startup",
-        "fundraising",
-        "marketing",
-        "pitch-deck",
-        "financial-modeling"
-      ]
+      "description": "27 professional business strategy skills: idea validation, market analysis, business modeling, marketing, metrics, and fundraising frameworks"
     }
   ]
 }
