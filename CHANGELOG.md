@@ -1,5 +1,57 @@
 # StratArts Changelog
 
+## 2026-02-18 - Plugin Marketplace Compatibility Overhaul
+
+### Changes Made
+
+#### 1. Restructured Plugin for Marketplace Installation
+- Moved `skills/` and `.claude-plugin/plugin.json` into `stratarts/` subdirectory
+- Marketplace `source` now uses `"./stratarts"` relative path (matches Anthropic's official pattern)
+- Previous `"source": "."` caused self-reference conflicts during installation
+
+#### 2. Fixed marketplace.json
+- Stripped to minimal schema: `name`, `owner`, `plugins[]` with `name`, `source`, `description`
+- Removed extra fields (`version`, `author`, `homepage`, `repository`, `license`, `category`, `tags`) that could interfere with Cowork parser
+- Changed `keywords` to `tags` (correct field name), then removed entirely for compatibility
+- Changed plugin source from GitHub object / URL object to relative path
+
+#### 3. Fixed plugin.json Validation Errors
+- Changed `author` from string (`"Maigent AI"`) to object (`{"name": "Maigent"}`)
+- Removed `tags` array (not a valid plugin.json field)
+- Removed `minClaudeCodeVersion` (not a recognized field)
+- Removed `skills` array (skills are auto-discovered from directory)
+
+#### 4. Fixed SKILL.md Frontmatter (27 files)
+- Stripped invalid frontmatter fields: `author`, `version`, `category`, `tags`, `estimatedTime`
+- Kept only `name` and `description` (the only recognized fields)
+
+#### 5. Migrated skills/ to commands/
+- Moved from `skills/[category]/[name]/SKILL.md` to `commands/[name].md`
+- Fixed namespace bug where `name:` field in SKILL.md stripped the `stratarts:` prefix in autocomplete
+- Commands use `description:` + `disable-model-invocation: true` frontmatter (no `name:` field)
+
+#### 6. Updated README
+- Corrected installation commands to use HTTPS URL format
+- Fixed skill invocation syntax from `/skill stratarts:name` to `/stratarts:name`
+- Added SSH troubleshooting section for users without GitHub SSH keys
+- Updated dev paths for new structure
+- Fixed "Interative" typo
+
+### Known Issues (Anthropic Platform Bugs)
+- **SSH Clone Bug**: Plugin installer defaults to SSH; users without SSH keys need `git config --global url."https://github.com/".insteadOf "git@github.com:"`
+- **Cowork Desktop (Windows)**: "Failed to add marketplace" — Windows path resolution bug ([#24859](https://github.com/anthropics/claude-code/issues/24859))
+- **Cowork VM**: EXDEV cross-device rename error ([#25444](https://github.com/anthropics/claude-code/issues/25444))
+
+### Verified Working Installation
+```
+/plugin marketplace add https://github.com/maigentic/stratarts
+/plugin install stratarts@maigent
+# Restart Claude Code
+/stratarts:business-idea-validator
+```
+
+---
+
 ## 2024-11-XX - Living Business Schema Architecture Documentation
 
 ### Changes Made
